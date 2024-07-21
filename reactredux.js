@@ -47,7 +47,7 @@ class Head extends React.Component{
     handleSubmit(e){
         e.preventDefault();
         console.log(this.state.keyin);
-        const xxx = document.querySelector(".okokok");
+        const xxx = document.querySelector("okokok");
         xxx.style.color="purple";
 
     }
