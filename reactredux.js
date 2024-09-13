@@ -28,7 +28,7 @@ class Head extends React.Component{
             keyin:e.target.value
         })
         
-     console.log(e.target);
+     // console.log(e.target);
     }
 
     componentDidMount(){
