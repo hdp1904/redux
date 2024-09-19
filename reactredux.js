@@ -9,7 +9,7 @@ let reducer;
 
 class Head extends React.Component{
     constructor(props){
-        super(props);
+
         this.state=store.getState();
     }
     
