@@ -4,8 +4,8 @@ inputtext.addEventListener("submit",(e)=>{
     console.log(e.target);
 })
 
-let store
-;
+let store;
+
 let reducer;
 
 const initialState ={
