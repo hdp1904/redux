@@ -1,6 +1,6 @@
 const inputtext = document.querySelector("#bnm");
 inputtext.addEventListener("submit",(e)=>{
-    e.preventDefault();
+
     console.log(e.target);
 })
 
