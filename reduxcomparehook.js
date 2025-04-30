@@ -10,7 +10,7 @@ let reducer;
 
 const initialState ={
     keyin : Number(0),
-
+    fuck:  "shit"
   }
 
 class Head extends React.Component{
